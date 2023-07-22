@@ -1,6 +1,6 @@
 ### Yo! 👋
 
-I'm [Luke]("https://lgain.dev/"). Previously a microbiologist, I now build things with **AWS** and **Python**.
+I'm Luke. Previously a microbiologist, I now build things with **AWS** and **Python**.
 
 I like **cats**, **plants**, and **old video games**.
 

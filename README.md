@@ -1,6 +1,6 @@
 ### Yo! 👋
 
-I'm Luke. Previously a microbiologist, I now build things with **AWS** and **Python**.
+I'm Luke. Previously in bioinformatics, I now build things with **AWS** and **Python**.
 
 I'm currently learning **Go** and studying for the **Security+** exam.
 
